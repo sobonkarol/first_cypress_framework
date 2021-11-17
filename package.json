@@ -1,0 +1,29 @@
+{
+  "name": "first_cypress_framework",
+  "version": "1.0.0",
+  "description": "learning cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sobonkarol/first_cypress_framework.git"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "automation",
+    "cypress"
+  ],
+  "author": "karol sobon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sobonkarol/first_cypress_framework/issues"
+  },
+  "homepage": "https://github.com/sobonkarol/first_cypress_framework#readme",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
